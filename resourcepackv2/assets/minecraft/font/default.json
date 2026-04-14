@@ -1,0 +1,116 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE800"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/media.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE801"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/helper.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE803"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mikolaj.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE804"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mvip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE805"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/headadmin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE806"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/jradmin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE807"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/jrmod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE808"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mod.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE809"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/mediaplus.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/ziom.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/svip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/tworca.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80E"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/owner.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE80F"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/gracz.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE810"]
+        }
+    ]
+}
